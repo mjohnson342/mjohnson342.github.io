@@ -97,7 +97,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body, html {
-    cursor: url(cursor.gif), pointer;
+    cursor: url(../img/mfsa.gif), auto;
 }
 body, html {
    height: 100%;
