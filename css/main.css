@@ -96,11 +96,10 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-body, html {
-    cursor: url(../img/MFSA_cursor.gif), auto;
-}
+
 body, html {
    height: 100%;
+   cursor: url(../img/MFSA_cursor.gif), pointer;
 }
    /* The hero image */
 .hero-image {
